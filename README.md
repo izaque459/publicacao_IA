@@ -4,7 +4,7 @@
 
 ## utilizado Gemini para geração de conteudo
 
-## utilizado ChatGpt para o titulo e subtitulo
+## utilizado ChatGpt para o titulo e subtitulos
 
 ## revisão totalmente humana
 
