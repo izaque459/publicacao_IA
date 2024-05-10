@@ -15,7 +15,7 @@ link para a publicacao: [o artigo](https://web.dio.me/articles/a-melhor-estrateg
 ## utilizado ChatGpt para o titulo e subtitulos
 >>>>>>> 3f15a7e1aa1c75ee7d4de739155047f0b68ff61c
 
-## Reflexão
+## Processo de Criação
 
 Com a intenção de realizar a revisão totalmente humana 
 foi feita o mesmo prompt para o ChaGpt e Gemini, 
